@@ -2,6 +2,7 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
 * Fixed missing translation in Portuguese.
 * Improved translations. Thanks to Scartiana (updated German) and wally232 (updated Korean)!
 

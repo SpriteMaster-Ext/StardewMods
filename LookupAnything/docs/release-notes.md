@@ -2,6 +2,8 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
+* Added more seed info for tree lookups.
 * Improved movie ticket lookups:
   * Added list of villagers who'd refuse to watch it.
   * Fixed error if some NPCs will reject the invitation.

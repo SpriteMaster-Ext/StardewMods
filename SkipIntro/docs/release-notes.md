@@ -2,6 +2,7 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
 * Improved translations. Thanks to EmWhyKay (added Turkish), Scartiana (added German), and wally232 (added Korean)!
 
 ## 1.9.7

@@ -2,6 +2,8 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
+* Added custom buff icon + name.
 * [Content packs can now edit the Tractor Mod textures](README.md#custom-textures) (e.g. for recolors or tractor texture packs).
 
 ## 4.14.10

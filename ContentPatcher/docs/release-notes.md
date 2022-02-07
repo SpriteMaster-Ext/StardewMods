@@ -10,6 +10,7 @@ When releasing a format change, don't forget to update the smapi.io/json schema!
 
 -->
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
 * `EditData` is now more powerful:
   * You can now edit nested fields using [`TargetField`](author-guide/action-editdata.md#target-field). For example, you can edit the reward for a bundle in `Data/RandomBundle` without redefining the whole bundle area.
   * You can now edit arbitrary data models (e.g. non-list/dictionary assets added by mods).
